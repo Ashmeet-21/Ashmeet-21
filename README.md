@@ -62,8 +62,3 @@ I build security tools that use AI. My work covers AI security benchmarks, SIEM 
 - Blue Team Level 1 (BTL1), Security Blue Team · Completed
 - AWS Certified Solutions Architect, Associate (SAA-C03) · In Progress
 
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashmeet-21&layout=compact&hide_border=true" alt="Top languages" height="160" />
-</p>
